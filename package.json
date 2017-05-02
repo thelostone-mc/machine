@@ -1,0 +1,20 @@
+{
+  "name": "machine",
+  "version": "1.0.0",
+  "description": "CSS and Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Anand",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "pug": "^2.0.0-beta.12"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1"
+  }
+}
