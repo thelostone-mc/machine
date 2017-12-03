@@ -1,3 +1,3 @@
 # machine
 CSS Playground + Pug.
-[The Machine](https://adityaanandmc.github.io/machine/main.html)
+[The Machine](https://thelostone-mc.github.io/machine/main.html)
